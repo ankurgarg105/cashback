@@ -1,0 +1,19 @@
+merchant_id,merchant_name,likely_mcc,default_channel,confidence,notes
+amazon,Amazon,5399,online,Medium,Merchant/acquirer MCC can vary
+flipkart,Flipkart,5399,online,Medium,Merchant/acquirer MCC can vary
+myntra,Myntra,5691,online,Medium,Merchant/acquirer MCC can vary
+swiggy,Swiggy,5812,online,High,Likely restaurant/food-delivery classification
+zomato,Zomato,5812,online,High,Likely restaurant/food-delivery classification
+bigbasket,BigBasket,5411,online,Medium,Online merchant MCC can vary
+blinkit,Blinkit,5411,online,Medium,Online merchant MCC can vary
+zepto,Zepto,5411,online,Medium,Online merchant MCC can vary
+bookmyshow,BookMyShow,7832,online,Medium,Entertainment MCC can vary
+uber,Uber,4121,online,Medium,Transport MCC can vary
+ola,Ola,4121,online,Medium,Transport MCC can vary
+decathlon,Decathlon,5941,offline,High,Sporting goods
+croma,Croma,5732,offline,Medium,Electronics
+indianoil,IndianOil,5541,offline,High,Fuel/service station
+bpcl,BPCL,5541,offline,High,Fuel/service station
+hpcl,HPCL,5541,offline,High,Fuel/service station
+tata_neu,Tata Neu,5399,online,Medium,Platform can route to different Tata merchants
+eazydiner,EazyDiner,5812,partner_app,High,Dining partner

@@ -1,0 +1,13 @@
+bank,card_id,card_name,network,annual_fee,reward_type,source_url,status,last_verified
+HSBC,hsbc_live_plus,HSBC Live+,Visa,999,cashback,https://www.hsbc.co.in/credit-cards/products/live-plus/,active,2026-08-18
+HSBC,hsbc_cashback,HSBC Cashback,Visa,999,cashback,https://www.hsbc.co.in/credit-cards/products/visa-cashback/,active,2026-08-18
+HSBC,hsbc_rupay_cashback,HSBC RuPay Cashback,RuPay,499,cashback,https://www.hsbc.co.in/credit-cards/products/rupay-cashback-credit-card/,active,2026-08-18
+SBI,sbi_cashback,Cashback SBI Card,Visa/Mastercard,999,cashback,https://www.sbicard.com/en/personal/credit-cards/cashback-sbi-card.html,active,2026-08-18
+HDFC,hdfc_millennia,HDFC Millennia,Visa/Mastercard,1000,cashback,https://www.hdfc.bank.in/credit-cards/millennia-credit-card,active,2026-08-18
+HDFC,hdfc_infinia,HDFC Infinia Metal,Visa,12500,points,https://www.hdfc.bank.in/credit-cards,active,2026-08-18
+AXIS,axis_ace,Axis ACE,Visa,499,cashback,https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card,active,2026-08-18
+AXIS,axis_flipkart,Flipkart Axis Bank,Visa,500,cashback,https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card,active,2026-08-18
+AXIS,axis_atlas,Axis Atlas,Visa,5000,miles,https://www.axis.bank.in/cards/credit-card/axis-bank-atlas-credit-card,active,2026-08-18
+ICICI,icici_coral,ICICI Coral,Visa/RuPay,500,points,https://campaigns.icicibank.com/credit-card/coralCreditCard/index.html,active,2026-08-18
+INDUSIND,indusind_eazydiner,IndusInd EazyDiner,Visa,1999,discount+points,https://www.indusind.com/content/dam/indusind-corporate/Other/welcomekit/credit-card-benefits/EazyDiner_Signature_Benefit_Guide.pdf,active,2026-08-18
+YES,yes_reserv,YES BANK RESERV,Mastercard,2499,points,https://www.yesbank.in/content/published/api/v1.1/assets/CONT4EAD59EF49CE4B8EADB3234B1D9AF541/native/yesbank_credit_card_reserv_value_chart_nov23.pdf,active,2026-08-18

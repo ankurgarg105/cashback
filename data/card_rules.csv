@@ -1,0 +1,23 @@
+card_id,rule_type,rule_key,category,rate,cap,benefit_type,channel,confidence,notes
+hsbc_live_plus,mcc,5812,Dining,0.10,1200,cashback,all,High,Issuer category rule
+hsbc_live_plus,mcc,5411,Grocery,0.10,1200,cashback,all,High,Issuer category rule
+hsbc_live_plus,mcc,5541,Fuel,0,0,excluded,all,High,Fuel exclusion
+hsbc_cashback,mcc,5812,Dining,0.10,1000,cashback,all,High,Issuer category rule
+hsbc_cashback,mcc,5411,Grocery,0.10,1000,cashback,all,High,Issuer category rule
+hsbc_rupay_cashback,mcc,5812,Dining,0.10,400,cashback,all,High,Issuer category rule
+hsbc_rupay_cashback,mcc,5411,Grocery,0.10,400,cashback,all,High,Issuer category rule
+sbi_cashback,channel,online,Online eligible,0.05,2000,cashback,online,High,Issuer published online rate
+sbi_cashback,channel,offline,Offline eligible,0.01,2000,cashback,offline,High,Issuer published offline rate
+hdfc_millennia,merchant,amazon,Amazon,0.05,0,cashback,online,High,Direct merchant rule
+hdfc_millennia,merchant,flipkart,Flipkart,0.05,0,cashback,online,High,Direct merchant rule
+hdfc_millennia,merchant,myntra,Myntra,0.05,0,cashback,online,High,Direct merchant rule
+hdfc_millennia,merchant,swiggy,Swiggy,0.05,0,cashback,online,High,Direct merchant rule
+hdfc_millennia,mcc,0000,Other eligible,0.01,0,cashback,all,Medium,Fallback base reward
+axis_ace,merchant,swiggy,Swiggy,0.04,500,cashback,online,High,Direct merchant rule
+axis_ace,merchant,zomato,Zomato,0.04,500,cashback,online,High,Direct merchant rule
+axis_ace,mcc,0000,Other eligible,0.015,0,cashback,all,High,Base reward
+axis_flipkart,merchant,myntra,Myntra,0.075,4000,cashback,online,High,Direct merchant rule
+axis_atlas,mcc,4511,Airlines,0.05,0,miles,all,High,Travel MCC
+axis_atlas,mcc,7011,Hotels,0.05,0,miles,all,High,Travel MCC
+axis_atlas,mcc,0000,Other eligible,0.02,0,miles,all,High,Base reward
+indusind_eazydiner,merchant,eazydiner,EazyDiner,0.25,1000,discount,partner_app,High,Partner/app benefit

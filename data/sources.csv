@@ -1,0 +1,7 @@
+source_id,source_type,bank,url,parser,last_checked,last_success,content_hash,status,notes
+hsbc_live_plus,issuer,HSBC,https://www.hsbc.co.in/credit-cards/products/live-plus/,html_page,,,,configured,Public issuer source
+hsbc_cashback,issuer,HSBC,https://www.hsbc.co.in/credit-cards/products/visa-cashback/,html_page,,,,configured,Public issuer source
+sbi_cashback,issuer,SBI,https://www.sbicard.com/en/personal/credit-cards/cashback-sbi-card.html,html_page,,,,configured,Public issuer source
+hdfc_millennia,issuer,HDFC,https://www.hdfc.bank.in/credit-cards/millennia-credit-card,html_page,,,,configured,Public issuer source
+axis_ace,issuer,AXIS,https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card,html_page,,,,configured,Public issuer source
+axis_atlas,issuer,AXIS,https://www.axis.bank.in/cards/credit-card/axis-bank-atlas-credit-card,html_page,,,,configured,Public issuer source

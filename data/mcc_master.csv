@@ -1,0 +1,19 @@
+mcc,description,industry,source,last_verified
+4111,Local/suburban passenger transportation,Transport,Seed dataset,2026-08-18
+4121,Taxicabs and limousines,Transport,Seed dataset,2026-08-18
+4511,Airlines,Travel,Seed dataset,2026-08-18
+4814,Telecommunication services,Utilities/Telecom,Seed dataset,2026-08-18
+4900,Utilities,Utilities,Seed dataset,2026-08-18
+5311,Department stores,Shopping,Seed dataset,2026-08-18
+5399,Miscellaneous general merchandise,Shopping,Seed dataset,2026-08-18
+5411,Grocery stores/supermarkets,Grocery,Seed dataset,2026-08-18
+5541,Service stations,Fuel,Seed dataset,2026-08-18
+5691,Clothing stores,Shopping,Seed dataset,2026-08-18
+5732,Electronics stores,Shopping,Seed dataset,2026-08-18
+5811,Caterers,Dining,Seed dataset,2026-08-18
+5812,Eating places/restaurants,Dining,Seed dataset,2026-08-18
+5813,Drinking places,Dining,Seed dataset,2026-08-18
+5814,Fast food restaurants,Dining,Seed dataset,2026-08-18
+5941,Sporting goods stores,Shopping,Seed dataset,2026-08-18
+7011,Hotels/motels/resorts,Travel,Seed dataset,2026-08-18
+7832,Motion picture theaters,Entertainment,Seed dataset,2026-08-18
